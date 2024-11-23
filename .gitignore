@@ -163,3 +163,5 @@ data/
 .vscode/
 test.py
 Gibbs-Sampling-Visualized/
+*.pth
+
