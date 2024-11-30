@@ -165,3 +165,4 @@ test.py
 Gibbs-Sampling-Visualized/
 *.pth
 
+es_plots/
