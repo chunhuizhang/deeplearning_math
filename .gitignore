@@ -166,3 +166,5 @@ Gibbs-Sampling-Visualized/
 *.pth
 
 es_plots/
+checkpoints/
+wandb/
